@@ -174,9 +174,9 @@ int main(){
 
         }
         
-        system("pause");
+        system("pause");        //função usado para limpar o terminal de saida
         system("cls");
-    }while(opcao != 4);
+    }while(opcao != 4);        //Condição para fechar o programa
 
 
     
