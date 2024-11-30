@@ -2,10 +2,10 @@
 ![poções](./poções.png)
 
 ## Índice
-- <a href="#Objetivo-do-projéto">Objetivo do projéto</a>
+- <a href="#Objetivo-do-projeto">Objetivo do projeto</a>
 - <a href="#Como-utilizar">Como utilizar</a>
 - <a href="#Futuras-atualizações">Futuras atualizações</a>
-- <a href="#Participantes-do-projéto">Participantes do projéto</a>
+- <a href="#Participantes-do-projeto">Participantes do projeto</a>
 
 ## Objetivo do projeto
 
