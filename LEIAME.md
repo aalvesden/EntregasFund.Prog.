@@ -4,7 +4,7 @@
 ## Índice
 - <a href="#Objetivo-do-projeto">Objetivo do projeto</a>
 - <a href="#Como-utilizar">Como utilizar</a>
-- <a href="#Futuras-atualizacoes">Futuras atualizações</a>
+- <a href="#Futuras-atualizações">Futuras atualizações</a>
 - <a href="#Participantes-do-projeto">Participantes do projeto</a>
 
 ## Objetivo do projeto
