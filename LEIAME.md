@@ -43,6 +43,14 @@ Para reabastercer ingredientes é bem simples, como toda a ultilização do prog
 
 ![reposicao](./reposicao.png)
 
+## Futuras atualizações
+
+As ideias para aprimorar o projéto são muita, mas primeiramente os planos são de desenvolver: 
+
+- Função que posibilita o usuario adicionar novas formula alquimeicas, consequentemente almentar a gama de insumos em estoque;
+
+- Função que armazena a quantia de poções criadas.
+
 ## Participantes do projeto
 
 - Criado por: Daniel Alves da rosa 
